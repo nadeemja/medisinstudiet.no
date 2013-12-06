@@ -117,10 +117,8 @@
   							Forum
   						</h2>
   						<p>
-  							På et forum kan man dele nyttige lenker, diskutere medisinske problemstillinger og dra nytte av andres kunnskaper til å forstå vanskelige konsepter. Trenger du hjelp med matte, kan du besøke forumet MattePrat. Men hva med medisin? Det finnes ingenting lignende for oss! Engelsktalende studenter derimot har hatt slike fora lenge. Min drøm er å gi norsktalende medisinstudenter et fagforum der vi kan hjelpe hverandre bli bedre. 
-  						</p>
-  						<p>
-  							<a class="btn" href="http://forum.medisinstudiet.no">Bli en del av drømmen du og! »</a>
+  							Et sted å diskutere, stille spørsmål og dele nyttige lenker. Matematikere har MattePrat, og engelsktalende medisinstudenter har lenge hatt et hav av diverse fora. Nå er det vår tur.
+
   						</p>
   					</div>
   					<div class="col-md-4 column">
@@ -128,14 +126,10 @@
   							MedisinWiki
   						</h2>
   						<p>
-  							Flere andre læresteder i verden har studentdreven Wiki. 
-  							Slike wikier danner oppdaterte kompendier og levende tekstbøker. 
-  							Forskningen viser at kvaliteten på slike wikier er høy, og de blir hyppig brukt av studentene.  
-  							Konseptet er prøvd og bevist – se.feks UMMedWiki. Jeg har trua på at også vi kan få til en aktiv, velfungerende og kvalitetssikret Wiki for norsktalende medisinstudenter!
+  							Studentdrevne wikier brukes som oppdaterte kompendier og levende tekstbøker.
+  							<a href="http://www.ncbi.nlm.nih.gov/pubmed/22195202">Forskningen viser høy kvalitet i slike wikier, og hyppig bruk blant studentene.</a>
+  							Det er på tide at vi får til en aktiv og kvalitetssikret Wiki for norsktalende medisinstudenter!
   							<br /><br />
-  						</p>
-  						<p>
-  							<a class="btn" href="#">Coming Soon ... »</a>
   						</p>
   					</div>
   					<div class="col-md-4 column">
@@ -143,80 +137,104 @@
   							LeQture
   						</h2>
   						<p>
-  							LeQture er programvare som jeg selv lager. 
-  							Dette skal være et verktøy som forelesere og studenter kan bruke til å kommunisere med hverandre under og etter forelesningen. 
-  							Studenter skal kunne stille spørsmål til og evaluere hver enkelt forelesning. 
-  							Foreleserne kan da svare på spørsmål under forelesningen eller direkte på nett. 
-  							Samtidig får foreleseren verdifull tilbakemelding fra studentene som han kan bruke til å bli bedre.
-  						</p>
-  						<p>
-  							<a class="btn" href="#">Under utvikling ... »</a>
+  							LeQture lar studenter stille spørsmål under forelesningen, uten å avbryte foreleseren.
+  							Foreleseren kan lage avstemminger for å kontrollere studentenes forståelse.
+  							Begge vil kunne evaluere forelesningen, og gi feedback. <strong>So much WIN.</strong>
   						</p>
   					</div>
   				</div>
-  				<div class="jumbotron">
-  						<h1>
-  							Hei, medisinstudenter!
-  						</h1>
+
+  				<div class="row clearfix">
+  					<div class="col-md-4 column">
   						<p>
-  							Mange av oss synes at undervisningen og studiet tar for lite i bruk de digitale verktøyene og ressursene som er tilgjengelige. Vi ligger for langt etter andre læresteder. Det har jeg tenkt å gjøre noe med. Les om prosjektene mine over, og teamet under. Ta kontakt hvis du har lyst til å bidra på noe vis. Du må ikke ha et eneste gram med data-peiling, bare interesse, idéer og engasjement.
-  						</p>
-  						<p style="">
-  							<a class="btn btn-primary btn-large" href="mailto:ftr2@dmfstudentrad.no">Hvordan kan jeg bidra?</a>
+  							<a class="btn btn-default btn-xs" href="http://forum.medisinstudiet.no">Besøk forumet. »</a>
   						</p>
   					</div>
+  					<div class="col-md-4 column">
+  						<p>
+  							<a class="btn btn-default btn-xs" href="#">Coming Soon ... »</a>
+  						</p>
+  					</div>
+  					<div class="col-md-4 column">
+  						<p>
+  							<a class="btn btn-default btn-xs" href="#">Under utvikling ... »</a>
+  						</p>
+  					</div>
+  				</div>
+
+  				<div class="row clearfix">
+  					<div class="col-md-4 column">
+  						<?php ssi_recentTopics(); ?>
+  					</div>
+  					<div class="col-md-8 column">
+
+  						<div class="jumbotron">
+  							<h1>
+  								Hei, medisinstudenter!
+  							</h1>
+  							<p>
+  								Mange av oss synes at medisinstudiet tar for lite i bruk digitale verktøy og ressurser i undervisningen. Vi ligger etter andre læresteder. Det har jeg tenkt å gjøre noe med. Les om prosjektene mine over, og teamet under. Klikk den blå knappen for å bidra med innhold, promotering, idèer, eller ren og skjær <strong>god stemning</strong>. Du må ikke ha et eneste gram med data-peiling, bare interesse og engasjement.
+  							</p>
+  							<p style="">
+  								<a title="Logg inn med Facebook, Google etc. Klikk så på new topic." class="btn btn-primary btn-large" href="http://forum.medisinstudiet.no/index.php?board=48.0">Fortell oss hva du tenker!</a><br />
+  							</p>
+  						</div>
+  					</div>
+
+  				</div>
+
   				<h3>
   					Teamet
   				</h3>
   				<div class="row clearfix">
-  				<div class="col-md-4 column">
-  					<div class="thumbnail2">
-  						<img alt="Nadeem J. Qureshi" src="https://scontent-a-ams.xx.fbcdn.net/hphotos-prn1/s720x720/67052_10151275612582136_899628596_n.jpg" width='100%' height="360px" class="img-rounded">
-  						<div class="wrapper">
-  							<div class="caption post-content">
+  					<div class="col-md-4 column">
+  						<div class="thumbnail2">
+  							<img alt="Nadeem J. Qureshi" src="https://scontent-a-ams.xx.fbcdn.net/hphotos-prn1/s720x720/67052_10151275612582136_899628596_n.jpg" width='100%' height="360px" class="img-rounded">
+  							<div class="wrapper">
+  								<div class="caption post-content">
 
-  								<h3>Nadeem J. Qureshi</h3>
-  								<p>Fakultetstillitsrepresentant, <br />
-  									Det Medisinske Fakultet, NTNU <br />
-  									<a href="https://twitter.com/NadeemJQ">@NadeemJQ</a> / <a href="http://nadeem.no">Blog</a></p> 
+  									<h3>Nadeem J. Qureshi</h3>
+  									<p>Fakultetstillitsrepresentant, <br />
+  										Det Medisinske Fakultet, NTNU <br />
+  										<a href="https://twitter.com/NadeemJQ">@NadeemJQ</a> / <a href="http://nadeem.no">Blog</a></p> 
 
+  									</div>
   								</div>
   							</div>
   						</div>
-  					</div>
-  				<div class="col-md-4 column">
-  					<div class="thumbnail2">
-  						<img alt="Nadeem J. Qureshi" src="img/mariustufte.jpeg" width='100%' height="360px" class="img-rounded">
-  						<div class="wrapper">
-  							<div class="caption post-content">
+  						<div class="col-md-4 column">
+  							<div class="thumbnail2">
+  								<img alt="Nadeem J. Qureshi" src="img/mariustufte.jpeg" width='100%' height="360px" class="img-rounded">
+  								<div class="wrapper">
+  									<div class="caption post-content">
 
-  								<h3>Marius K. M. Tufte</h3>
-  								<p>Studenttingsrepresentant, <br />
-  									Det Medisinske Fakultet, NTNU <br />
-  									<a href="https://twitter.com/MariusTufte">@MariusTufte</a></p> 
+  										<h3>Marius K. M. Tufte</h3>
+  										<p>Studenttingsrepresentant, <br />
+  											Det Medisinske Fakultet, NTNU <br />
+  											<a href="https://twitter.com/MariusTufte">@MariusTufte</a></p> 
 
+  										</div>
+  									</div>
   								</div>
   							</div>
-  						</div>
-  					</div>
-  				<div class="col-md-4 column">
-  					<div class="thumbnail2">
-  						<img alt="Nadeem J. Qureshi" src="img/unclesam.jpg" width='100%' height="360px" class="img-rounded">
-  						<div class="wrapper hidden">
-  							<div class="caption post-content">
+  							<div class="col-md-4 column">
+  								<div class="thumbnail2">
+  									<img alt="Nadeem J. Qureshi" src="img/unclesam.jpg" width='100%' height="360px" class="img-rounded">
+  									<div class="wrapper hidden">
+  										<div class="caption post-content">
 
-  								<h3>Nadeem J. Qureshi</h3>
-  								<p>Fakultetstillitsrepresentant, <br />
-  									Det Medisinske Fakultet, NTNU <br />
-  									<a href="https://twitter.com/NadeemJQ">@NadeemJQ</a> / <a href="http://nadeem.no">Blog</a></p> 
+  											<h3>Nadeem J. Qureshi</h3>
+  											<p>Fakultetstillitsrepresentant, <br />
+  												Det Medisinske Fakultet, NTNU <br />
+  												<a href="https://twitter.com/NadeemJQ">@NadeemJQ</a> / <a href="http://nadeem.no">Blog</a></p> 
 
+  											</div>
+  										</div>
+  									</div>
   								</div>
   							</div>
   						</div>
   					</div>
   				</div>
-  			</div>
-  		</div>
-  	</div>
-  </body>
-  </html>
+  			</body>
+  			</html>
