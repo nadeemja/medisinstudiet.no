@@ -1,3 +1,4 @@
+<?php require("/home/nadeem/www/forum/SSI.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
