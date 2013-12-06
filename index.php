@@ -165,8 +165,24 @@
 
   				<div class="row clearfix">
   					<div class="col-md-4 column">
-  						<?php ssi_recentTopics(); ?>
-  					</div>
+<strong>Nyeste innlegg fra forumet</strong>
+<table border="0" width="100%" align="" class="table table-striped">
+  						<?php 
+							$array = ssi_recentTopics($num_recent = 7, $exclude_boards = null, $include_boards = null, $output_method = 'array');
+foreach ($array as $news)
+	{
+		echo '
+				<tr>
+					<td>
+						<a href="', $news['href'] ,'"><b>', $news['subject'], '</b></a><br /> av ', $news['poster']['name'] ,'
+						<i>i <a href="', $news['board']['href'], '">', $news['board']['name'], '</a></i>
+					</td>
+				</tr>
+			';
+
+	}
+						?>
+  				</table>	</div>
   					<div class="col-md-8 column">
 
   						<div class="jumbotron">
