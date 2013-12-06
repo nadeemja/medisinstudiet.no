@@ -211,7 +211,7 @@ foreach ($array as $news)
   								<div class="caption post-content">
 
   									<h3>Nadeem J. Qureshi</h3>
-  									<p>Fakultetstillitsrepresentant, <br />
+  									<p>Fakultetstillitsrepresentant (2013), <br />
   										Det Medisinske Fakultet, NTNU <br />
   										<a href="https://twitter.com/NadeemJQ">@NadeemJQ</a> / <a href="http://nadeem.no">Blog</a></p> 
 
@@ -221,12 +221,12 @@ foreach ($array as $news)
   						</div>
   						<div class="col-md-4 column">
   							<div class="thumbnail2">
-  								<img alt="Nadeem J. Qureshi" src="img/mariustufte.jpeg" width='100%' height="360px" class="img-rounded">
+  								<img alt="Marius K. M. Turfte" src="img/mariustufte.jpeg" width='100%' height="360px" class="img-rounded">
   								<div class="wrapper">
   									<div class="caption post-content">
 
   										<h3>Marius K. M. Tufte</h3>
-  										<p>Studenttingsrepresentant, <br />
+  										<p>Studenttingsrepresentant (2013), <br />
   											Det Medisinske Fakultet, NTNU <br />
   											<a href="https://twitter.com/MariusTufte">@MariusTufte</a></p> 
 
@@ -236,12 +236,12 @@ foreach ($array as $news)
   							</div>
   							<div class="col-md-4 column">
   								<div class="thumbnail2">
-  									<img alt="Nadeem J. Qureshi" src="img/unclesam.jpg" width='100%' height="360px" class="img-rounded">
+  									<img alt="Uncle Sam" src="img/unclesam.jpg" width='100%' height="360px" class="img-rounded">
   									<div class="wrapper hidden">
   										<div class="caption post-content">
 
   											<h3>Nadeem J. Qureshi</h3>
-  											<p>Fakultetstillitsrepresentant, <br />
+  											<p>Fakultetstillitsrepresentant (2013), <br />
   												Det Medisinske Fakultet, NTNU <br />
   												<a href="https://twitter.com/NadeemJQ">@NadeemJQ</a> / <a href="http://nadeem.no">Blog</a></p> 
 
