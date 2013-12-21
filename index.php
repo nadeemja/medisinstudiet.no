@@ -186,9 +186,9 @@ foreach ($array as $news)
   					<div class="col-md-8 column">
 
   						<div class="jumbotron">
-  							<h1>
+  							<h2>
   								Hei, medisinstudenter!
-  							</h1>
+  							</h2>
   							<p>
   								Mange av oss synes at medisinstudiet tar for lite i bruk digitale verktøy og ressurser i undervisningen. Vi ligger etter andre læresteder. Det har jeg tenkt å gjøre noe med. Les om prosjektene mine over, og teamet under. Klikk den blå knappen for å bidra med innhold, promotering, idèer, eller ren og skjær <strong>god stemning</strong>. Du må ikke ha et eneste gram med data-peiling, bare interesse og engasjement.
   							</p>
